@@ -1,4 +1,4 @@
 {
-  "connectionString": "mongodb://localhost/node-mongo-registration-login-api",
+  "connectionString": "mongodb+srv://app-data-01:app-data-01.@seo.zkgab.mongodb.net/",
   "secret": "123456"
 }
